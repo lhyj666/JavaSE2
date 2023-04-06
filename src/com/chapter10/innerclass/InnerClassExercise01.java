@@ -8,8 +8,13 @@ public class InnerClassExercise01 {
 
     }
     public static void f1(){
+
         System.out.println("f1");
 
+        System.out.println("提交2");
+        System.out.println("提交2");
+        System.out.println("提交2");
+        System.out.println("提交3");
     }
 }
 interface AA{
