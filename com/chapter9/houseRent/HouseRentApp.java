@@ -1,6 +1,6 @@
-package com.chapter9.houseRent;
+package com.chapter19.houseRent;
 
-import com.chapter9.houseRent.view.HouseView;
+import com.chapter19.houseRent.view.HouseView;
 
 public class HouseRentApp {
     public static void main(String[] args) {

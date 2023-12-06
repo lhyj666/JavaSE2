@@ -1,8 +1,8 @@
-package com.chapter9.houseRent.view;
+package com.chapter19.houseRent.view;
 
-import com.chapter9.houseRent.domain.House;
-import com.chapter9.houseRent.service.HouseService;
-import com.chapter9.houseRent.utils.Utility;
+import com.chapter19.houseRent.domain.House;
+import com.chapter19.houseRent.service.HouseService;
+import com.chapter19.houseRent.utils.Utility;
 
 public class HouseView {
 

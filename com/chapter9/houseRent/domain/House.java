@@ -1,4 +1,4 @@
-package com.chapter9.houseRent.domain;
+package com.chapter19.houseRent.domain;
 
 //数据层，放置属性信息
 public class House {

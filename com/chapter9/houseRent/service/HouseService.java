@@ -1,6 +1,6 @@
-package com.chapter9.houseRent.service;
+package com.chapter19.houseRent.service;
 
-import com.chapter9.houseRent.domain.House;
+import com.chapter19.houseRent.domain.House;
 
 public class HouseService {
     private House[] houses;//保存数组对象
